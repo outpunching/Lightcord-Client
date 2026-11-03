@@ -31,7 +31,7 @@ upgrade and is not distributed through this repository.
 ## Support
 
 For installation help, Premium purchases, license assistance, and update announcements,
-visit the [official Lightcord Discord page](https://lightcord.shop/discord/).
+visit the [official Lightcord Discord page](https://discord.gg/lightcord).
 
 ## Repository purpose
 
