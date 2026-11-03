@@ -1,6 +1,6 @@
 # Lightcord
 
-Lightcord is a lightweight custom Discord client focused on stereo voice, audio control, and a clean experience.
+Lightcord Free is a lightweight custom Discord client focused on stereo voice, audio control, and a clean experience.
 
 ![Lightcord stereo Discord client](https://lightcord.shop/og.png)
 
@@ -11,21 +11,22 @@ Lightcord is a lightweight custom Discord client focused on stereo voice, audio 
 - [Explore Lightcord Premium](https://lightcord.shop/premium/)
 - [Join the official Lightcord Discord](https://lightcord.shop/discord/)
 
-## Features
+## Free client features
 
 - Stereo voice support
 - Lightweight Discord client
 - Equicord and plugin support
-- Raw audio input and advanced voice controls with Premium
-- External EQ, voice effects, VST support, and stereo controls with Premium
 
 ## Download
 
-Download the latest official Lightcord release from the
+Download the latest official Lightcord Free release from the
 [Lightcord download page](https://lightcord.shop/download/).
 
 The download is hosted on the official website so it always points to the newest version.
 Avoid unofficial mirrors and reuploads.
+
+This repository links to the free client only. Lightcord Premium is a separate optional
+upgrade and is not distributed through this repository.
 
 ## Support
 
@@ -34,5 +35,5 @@ visit the [official Lightcord Discord page](https://lightcord.shop/discord/).
 
 ## Repository purpose
 
-This repository provides public information and official links for Lightcord. It is not the
-source-code repository for the Lightcord client.
+This repository provides public information and official links for the free Lightcord client.
+It is not the source-code repository for the Lightcord client.
